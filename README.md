@@ -1,2 +1,7 @@
-# directx11-tutorials
-Updated http://braynzarsoft.net/index.php?p=DX11Lessons DirectX11 Tutorial sources
+# Directx11-tutorials
+
+
+Updated DirectX11 Tutorial sources
+ of http://braynzarsoft.net/index.php?p=DX11Lessons
+
+Removed dependency on D3DX
